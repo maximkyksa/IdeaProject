@@ -1,0 +1,17 @@
+TaskUsers\SettingsDb\Const.class
+TaskBook\Application.class
+TaskBook\BookManager.class
+TaskUsers\User.class
+TaskUsers\Main.class
+TaskUsers\UserManager.class
+TaskBook\Book.class
+TaskBook\SettingsDb\Const.class
+TaskBook\IOBook.class
+TaskBook\Main.class
+TaskUsers\MapTable.class
+TaskBook\SettingsDb\Configs.class
+TaskBook\DatabaseHandler.class
+TaskBook\MapTable.class
+TaskUsers\SettingsDb\Configs.class
+TaskUsers\DatabaseHandler.class
+TaskUsers\Application.class
